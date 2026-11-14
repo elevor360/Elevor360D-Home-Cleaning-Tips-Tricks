@@ -1,0 +1,630 @@
+[
+  {
+    "id": 1,
+    "category": "Kitchen",
+    "title": "Wipe worktops",
+    "frequency": "Daily",
+    "steps": [
+      "Clear crumbs",
+      "wash with warm water and washing-up liquid",
+      "rinse and dry",
+      "follow the surface manufacturer's advice",
+      "use a food-safe disinfectant only if needed and as labelled"
+    ],
+    "caution": "Never mix cleaning chemicals."
+  },
+  {
+    "id": 2,
+    "category": "Kitchen",
+    "title": "Clean chopping boards",
+    "frequency": "After use",
+    "steps": [
+      "Wash boards in hot soapy water after each use",
+      "rinse and dry upright",
+      "sanitise as recommended for the board material"
+    ],
+    "caution": "Use separate boards for raw meat and ready-to-eat foods."
+  },
+  {
+    "id": 3,
+    "category": "Kitchen",
+    "title": "Degrease hob",
+    "frequency": "Weekly",
+    "steps": [
+      "Allow hob to cool completely",
+      "wipe loose debris",
+      "apply hob-safe cleaner to a cloth",
+      "wipe and dry with microfibre"
+    ],
+    "caution": "Avoid abrasive pads on glass or induction hobs."
+  },
+  {
+    "id": 4,
+    "category": "Kitchen",
+    "title": "Clean microwave",
+    "frequency": "Weekly",
+    "steps": [
+      "Heat a microwave-safe bowl of water for a short period to soften splashes",
+      "let it cool before opening",
+      "wipe interior with a damp cloth",
+      "dry"
+    ],
+    "caution": "Avoid burns from steam and hot water."
+  },
+  {
+    "id": 5,
+    "category": "Kitchen",
+    "title": "Freshen fridge shelves",
+    "frequency": "Weekly",
+    "steps": [
+      "Move chilled food to a cool box if needed",
+      "remove shelves according to manual",
+      "wash with mild soapy water and dry",
+      "return food promptly"
+    ],
+    "caution": "Keep chilled foods cold; avoid prolonged time at room temperature."
+  },
+  {
+    "id": 6,
+    "category": "Kitchen",
+    "title": "Clean sink and taps",
+    "frequency": "Daily",
+    "steps": [
+      "Rinse sink",
+      "wash with mild washing-up liquid",
+      "rinse thoroughly",
+      "dry taps to reduce water marks"
+    ],
+    "caution": "Use non-abrasive cleaner on plated fittings."
+  },
+  {
+    "id": 7,
+    "category": "Kitchen",
+    "title": "Wash reusable cloths",
+    "frequency": "After use",
+    "steps": [
+      "Rinse away food residue",
+      "wash cloths on a suitable hot laundry cycle according to label",
+      "dry fully before reuse"
+    ],
+    "caution": "Use separate cloths for toilets and food areas."
+  },
+  {
+    "id": 8,
+    "category": "Kitchen",
+    "title": "Clean kettle exterior",
+    "frequency": "Weekly",
+    "steps": [
+      "Unplug and cool kettle",
+      "wipe exterior with damp cloth",
+      "dry thoroughly",
+      "descale interior following manufacturer's directions"
+    ],
+    "caution": "Never immerse electrical kettle in water."
+  },
+  {
+    "id": 9,
+    "category": "Kitchen",
+    "title": "Clean bin",
+    "frequency": "Weekly",
+    "steps": [
+      "Empty and remove liner",
+      "wash bin with warm soapy water",
+      "rinse and dry completely",
+      "fit fresh liner"
+    ],
+    "caution": "Wash hands after handling waste."
+  },
+  {
+    "id": 10,
+    "category": "Kitchen",
+    "title": "Clean extractor filter",
+    "frequency": "Monthly",
+    "steps": [
+      "Check filter type and manual",
+      "remove washable metal filter",
+      "soak in warm soapy water",
+      "rinse and dry fully before refitting"
+    ],
+    "caution": "Do not wash disposable charcoal filters unless manufacturer permits."
+  },
+  {
+    "id": 11,
+    "category": "Bathroom",
+    "title": "Clean bathroom sink",
+    "frequency": "Daily",
+    "steps": [
+      "Rinse basin",
+      "wipe with suitable bathroom cleaner",
+      "clean around taps",
+      "rinse and dry"
+    ],
+    "caution": "Use cleaners compatible with natural stone and coatings."
+  },
+  {
+    "id": 12,
+    "category": "Bathroom",
+    "title": "Clean shower screen",
+    "frequency": "Weekly",
+    "steps": [
+      "Rinse screen after showering",
+      "use a squeegee",
+      "clean with screen-safe product",
+      "buff dry"
+    ],
+    "caution": "Avoid acidic cleaners on natural stone."
+  },
+  {
+    "id": 13,
+    "category": "Bathroom",
+    "title": "Clean toilet bowl",
+    "frequency": "Weekly",
+    "steps": [
+      "Apply toilet cleaner as labelled",
+      "allow recommended contact time",
+      "scrub bowl with toilet brush",
+      "flush"
+    ],
+    "caution": "Never mix bleach with toilet cleaner or acids."
+  },
+  {
+    "id": 14,
+    "category": "Bathroom",
+    "title": "Wipe toilet exterior",
+    "frequency": "Weekly",
+    "steps": [
+      "Use separate bathroom cloth and suitable disinfectant",
+      "wipe flush handle lid seat and base",
+      "observe product contact time"
+    ],
+    "caution": "Keep cloth separate from kitchen cleaning."
+  },
+  {
+    "id": 15,
+    "category": "Bathroom",
+    "title": "Remove shower hair",
+    "frequency": "Weekly",
+    "steps": [
+      "Wear gloves",
+      "lift accessible drain cover",
+      "remove trapped hair with a tool",
+      "rinse cover and replace"
+    ],
+    "caution": "Do not combine chemical drain cleaners."
+  },
+  {
+    "id": 16,
+    "category": "Bathroom",
+    "title": "Clean bath",
+    "frequency": "Weekly",
+    "steps": [
+      "Rinse bath",
+      "apply surface-safe cleaner",
+      "wipe gently",
+      "rinse and dry"
+    ],
+    "caution": "Check acrylic baths for product compatibility."
+  },
+  {
+    "id": 17,
+    "category": "Bathroom",
+    "title": "Wash bath mats",
+    "frequency": "Weekly",
+    "steps": [
+      "Check care label",
+      "machine wash at recommended setting",
+      "dry thoroughly before replacing"
+    ],
+    "caution": "Avoid damp mats on slippery floors."
+  },
+  {
+    "id": 18,
+    "category": "Bathroom",
+    "title": "Clean bathroom mirror",
+    "frequency": "Weekly",
+    "steps": [
+      "Spray glass cleaner onto cloth rather than directly onto edges",
+      "wipe mirror",
+      "buff dry"
+    ],
+    "caution": "Protect mirror backing from excess moisture."
+  },
+  {
+    "id": 19,
+    "category": "Bathroom",
+    "title": "Reduce bathroom mould",
+    "frequency": "Weekly",
+    "steps": [
+      "Run extractor or open window during and after bathing",
+      "wipe condensation",
+      "dry damp surfaces",
+      "repair leaks promptly"
+    ],
+    "caution": "For extensive mould or health concerns seek professional advice."
+  },
+  {
+    "id": 20,
+    "category": "Bathroom",
+    "title": "Clean grout gently",
+    "frequency": "Monthly",
+    "steps": [
+      "Brush loose dirt",
+      "apply grout-safe cleaner following label",
+      "scrub gently with soft brush",
+      "rinse and dry"
+    ],
+    "caution": "Do not mix bleach and vinegar or other cleaners."
+  },
+  {
+    "id": 21,
+    "category": "Laundry",
+    "title": "Sort washing",
+    "frequency": "Every load",
+    "steps": [
+      "Separate whites colours and delicate fabrics",
+      "check labels and pockets",
+      "turn garments as directed"
+    ],
+    "caution": "Keep stain products away from children."
+  },
+  {
+    "id": 22,
+    "category": "Laundry",
+    "title": "Treat fresh stains",
+    "frequency": "As needed",
+    "steps": [
+      "Blot spill without rubbing",
+      "check care label",
+      "test stain treatment on hidden area",
+      "launder promptly"
+    ],
+    "caution": "Never use hot water blindly on protein stains."
+  },
+  {
+    "id": 23,
+    "category": "Laundry",
+    "title": "Clean washing machine seal",
+    "frequency": "Weekly",
+    "steps": [
+      "Wipe accessible rubber seal folds with damp cloth",
+      "remove trapped debris",
+      "dry seal",
+      "leave door ajar if safe"
+    ],
+    "caution": "Keep children and pets away from open machine."
+  },
+  {
+    "id": 24,
+    "category": "Laundry",
+    "title": "Clean detergent drawer",
+    "frequency": "Monthly",
+    "steps": [
+      "Remove drawer if manual allows",
+      "rinse residue with warm water",
+      "brush corners",
+      "dry and replace"
+    ],
+    "caution": "Unplug if manual requires maintenance isolation."
+  },
+  {
+    "id": 25,
+    "category": "Laundry",
+    "title": "Clean lint filter",
+    "frequency": "Every dryer load",
+    "steps": [
+      "Switch dryer off",
+      "remove lint from filter",
+      "refit securely",
+      "inspect venting as recommended"
+    ],
+    "caution": "Lint build-up is a fire hazard."
+  },
+  {
+    "id": 26,
+    "category": "Laundry",
+    "title": "Dry clothes indoors safely",
+    "frequency": "As needed",
+    "steps": [
+      "Use a well-ventilated room",
+      "space garments on airer",
+      "keep away from heaters and open flames",
+      "monitor humidity"
+    ],
+    "caution": "Avoid draping clothes over electric heaters."
+  },
+  {
+    "id": 27,
+    "category": "Laundry",
+    "title": "Wash bedding",
+    "frequency": "Weekly",
+    "steps": [
+      "Read care labels",
+      "wash sheets and pillowcases on suitable programme",
+      "dry fully before storing"
+    ],
+    "caution": "Do not overload washing machine."
+  },
+  {
+    "id": 28,
+    "category": "Laundry",
+    "title": "Refresh towels",
+    "frequency": "Weekly",
+    "steps": [
+      "Wash towels as label directs",
+      "use measured detergent",
+      "dry fully and store aired"
+    ],
+    "caution": "Avoid excessive fabric conditioner if absorbency falls."
+  },
+  {
+    "id": 29,
+    "category": "Laundry",
+    "title": "Clean iron soleplate",
+    "frequency": "As needed",
+    "steps": [
+      "Unplug and cool iron",
+      "wipe soleplate with soft damp cloth",
+      "follow manufacturer's descaling instructions"
+    ],
+    "caution": "Never scrub hot soleplate."
+  },
+  {
+    "id": 30,
+    "category": "Laundry",
+    "title": "Organise cleaning supplies",
+    "frequency": "Monthly",
+    "steps": [
+      "Check expiry and labels",
+      "store products upright in original containers",
+      "keep out of reach of children and pets"
+    ],
+    "caution": "Never decant chemicals into drink bottles."
+  },
+  {
+    "id": 31,
+    "category": "Living Areas",
+    "title": "Dust shelves",
+    "frequency": "Weekly",
+    "steps": [
+      "Move small objects",
+      "dust from high to low using microfibre cloth",
+      "return objects after surfaces are clean"
+    ],
+    "caution": "Avoid standing on unstable furniture."
+  },
+  {
+    "id": 32,
+    "category": "Living Areas",
+    "title": "Vacuum carpets",
+    "frequency": "Weekly",
+    "steps": [
+      "Pick up small objects",
+      "vacuum slowly in overlapping passes",
+      "empty or replace vacuum bag as directed"
+    ],
+    "caution": "Use appropriate vacuum setting for delicate rugs."
+  },
+  {
+    "id": 33,
+    "category": "Living Areas",
+    "title": "Clean sofa fabric",
+    "frequency": "Monthly",
+    "steps": [
+      "Check upholstery cleaning code",
+      "vacuum crevices",
+      "spot-test approved fabric cleaner",
+      "blot stains gently"
+    ],
+    "caution": "Do not soak upholstery."
+  },
+  {
+    "id": 34,
+    "category": "Living Areas",
+    "title": "Wipe light switches",
+    "frequency": "Weekly",
+    "steps": [
+      "Apply mild cleaner to cloth not switch",
+      "wipe gently",
+      "dry immediately"
+    ],
+    "caution": "Do not allow liquid into electrical fittings."
+  },
+  {
+    "id": 35,
+    "category": "Living Areas",
+    "title": "Clean TV screen",
+    "frequency": "Weekly",
+    "steps": [
+      "Turn off and unplug TV",
+      "use dry soft microfibre cloth",
+      "follow screen manufacturer's guidance for marks"
+    ],
+    "caution": "Do not spray cleaner directly on screen."
+  },
+  {
+    "id": 36,
+    "category": "Living Areas",
+    "title": "Clean window sills",
+    "frequency": "Weekly",
+    "steps": [
+      "Dust loose debris",
+      "wipe with mild soapy cloth",
+      "dry corners and tracks"
+    ],
+    "caution": "Inspect for condensation and leaks."
+  },
+  {
+    "id": 37,
+    "category": "Living Areas",
+    "title": "Vacuum skirting boards",
+    "frequency": "Monthly",
+    "steps": [
+      "Use soft brush attachment to remove dust",
+      "wipe marks with damp cloth",
+      "dry"
+    ],
+    "caution": "Test cleaner on painted finish first."
+  },
+  {
+    "id": 38,
+    "category": "Living Areas",
+    "title": "Clean door handles",
+    "frequency": "Weekly",
+    "steps": [
+      "Wipe handles with surface-compatible cleaner",
+      "disinfect high-touch points if needed",
+      "dry"
+    ],
+    "caution": "Observe disinfectant label contact time."
+  },
+  {
+    "id": 39,
+    "category": "Living Areas",
+    "title": "Freshen curtains",
+    "frequency": "Seasonal",
+    "steps": [
+      "Check care label",
+      "vacuum with upholstery attachment",
+      "launder or dry-clean only as instructed"
+    ],
+    "caution": "Heavy curtains may require specialist cleaning."
+  },
+  {
+    "id": 40,
+    "category": "Living Areas",
+    "title": "Clean remote controls",
+    "frequency": "Weekly",
+    "steps": [
+      "Remove batteries if manual recommends",
+      "wipe with barely damp cloth",
+      "use cotton bud around buttons",
+      "dry completely"
+    ],
+    "caution": "Do not soak electronics."
+  },
+  {
+    "id": 41,
+    "category": "Bedrooms",
+    "title": "Change bed linen",
+    "frequency": "Weekly",
+    "steps": [
+      "Strip bedding",
+      "wash according to label",
+      "dry fully",
+      "make bed with clean linen"
+    ],
+    "caution": "Keep spare bedding in dry storage."
+  },
+  {
+    "id": 42,
+    "category": "Bedrooms",
+    "title": "Vacuum mattress",
+    "frequency": "Monthly",
+    "steps": [
+      "Remove bedding",
+      "vacuum mattress surface with upholstery tool",
+      "rotate mattress if manufacturer permits"
+    ],
+    "caution": "Do not wet memory foam unless approved."
+  },
+  {
+    "id": 43,
+    "category": "Bedrooms",
+    "title": "Dust bedside tables",
+    "frequency": "Weekly",
+    "steps": [
+      "Remove items",
+      "dust with microfibre",
+      "wipe spills with finish-safe cleaner",
+      "dry"
+    ],
+    "caution": "Keep liquids away from chargers."
+  },
+  {
+    "id": 44,
+    "category": "Bedrooms",
+    "title": "Organise wardrobe",
+    "frequency": "Monthly",
+    "steps": [
+      "Remove items one shelf at a time",
+      "dust and wipe shelf",
+      "dry",
+      "replace sorted clothes"
+    ],
+    "caution": "Avoid overloading high shelves."
+  },
+  {
+    "id": 45,
+    "category": "Bedrooms",
+    "title": "Clean under bed",
+    "frequency": "Monthly",
+    "steps": [
+      "Move accessible storage",
+      "vacuum floor and corners",
+      "wipe storage boxes before returning"
+    ],
+    "caution": "Do not move heavy furniture alone."
+  },
+  {
+    "id": 46,
+    "category": "Whole Home",
+    "title": "Mop hard floors",
+    "frequency": "Weekly",
+    "steps": [
+      "Vacuum or sweep first",
+      "dilute floor-safe cleaner according to label",
+      "mop with damp not soaking pad",
+      "allow to dry"
+    ],
+    "caution": "Use very little water on laminate and timber."
+  },
+  {
+    "id": 47,
+    "category": "Whole Home",
+    "title": "Clean internal windows",
+    "frequency": "Monthly",
+    "steps": [
+      "Dust frames and tracks",
+      "use suitable glass cleaner and lint-free cloth",
+      "wipe from top down",
+      "buff dry"
+    ],
+    "caution": "Avoid leaning out of windows."
+  },
+  {
+    "id": 48,
+    "category": "Whole Home",
+    "title": "Check smoke alarms",
+    "frequency": "Monthly",
+    "steps": [
+      "Press test button according to manufacturer's guidance",
+      "replace batteries or units as directed"
+    ],
+    "caution": "Never disable an alarm to stop nuisance beeps."
+  },
+  {
+    "id": 49,
+    "category": "Whole Home",
+    "title": "Tidy entryway",
+    "frequency": "Weekly",
+    "steps": [
+      "Remove clutter from doorway",
+      "wipe shoe rack",
+      "sweep entrance",
+      "dry wet footwear separately"
+    ],
+    "caution": "Keep escape routes clear."
+  },
+  {
+    "id": 50,
+    "category": "Whole Home",
+    "title": "Clean reusable mop heads",
+    "frequency": "After use",
+    "steps": [
+      "Rinse mop head",
+      "wash as label permits",
+      "dry fully before storage"
+    ],
+    "caution": "Never reuse toilet cleaning mop in food areas."
+  }
+]

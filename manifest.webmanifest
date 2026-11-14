@@ -1,0 +1,17 @@
+{
+  "name": "Elevor360D Home Cleaning Tips & Tricks",
+  "short_name": "Home Cleaning",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f0",
+  "theme_color": "#205946",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

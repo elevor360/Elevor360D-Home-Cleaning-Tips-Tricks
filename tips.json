@@ -1,630 +1,602 @@
 [
   {
     "id": 1,
-    "category": "Kitchen",
-    "title": "Wipe worktops",
-    "frequency": "Daily",
+    "category": "Clothing Stains",
+    "title": "Remove ballpoint ink from washable cotton",
+    "frequency": "As needed",
     "steps": [
-      "Clear crumbs",
-      "wash with warm water and washing-up liquid",
-      "rinse and dry",
-      "follow the surface manufacturer's advice",
-      "use a food-safe disinfectant only if needed and as labelled"
+      "Place a clean absorbent cloth beneath the stain and blot excess ink; dab a small amount of rubbing alcohol onto a hidden seam first.",
+      "If colourfast, dab ink gently from the outside in with alcohol on a white cloth, changing cloth sections frequently.",
+      "Rinse thoroughly and wash to the care label; air-dry until the mark has gone."
     ],
-    "caution": "Never mix cleaning chemicals."
+    "caution": "Alcohol is flammable. Ventilate, keep away from flames, and avoid on acetate, delicate or dry-clean-only fabrics."
   },
   {
     "id": 2,
-    "category": "Kitchen",
-    "title": "Clean chopping boards",
-    "frequency": "After use",
+    "category": "Clothing Stains",
+    "title": "Remove washable marker stains",
+    "frequency": "As needed",
     "steps": [
-      "Wash boards in hot soapy water after each use",
-      "rinse and dry upright",
-      "sanitise as recommended for the board material"
+      "Blot fresh marker with a damp white cloth rather than rubbing; check garment label.",
+      "Apply a little liquid laundry detergent to the stain and leave for 10 minutes.",
+      "Rinse and launder as directed; repeat before tumble drying if needed."
     ],
-    "caution": "Use separate boards for raw meat and ready-to-eat foods."
+    "caution": "Permanent markers may not fully lift. Test dyes first."
   },
   {
     "id": 3,
-    "category": "Kitchen",
-    "title": "Degrease hob",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove coffee from a shirt",
+    "frequency": "As needed",
     "steps": [
-      "Allow hob to cool completely",
-      "wipe loose debris",
-      "apply hob-safe cleaner to a cloth",
-      "wipe and dry with microfibre"
+      "Blot excess coffee with paper towel without spreading it; rinse from the back with cool water.",
+      "Work a small amount of liquid laundry detergent into the mark and leave 10 minutes.",
+      "Wash according to care label and inspect before drying."
     ],
-    "caution": "Avoid abrasive pads on glass or induction hobs."
+    "caution": "Milk or cream in coffee may need enzyme detergent; check fabric suitability."
   },
   {
     "id": 4,
-    "category": "Kitchen",
-    "title": "Clean microwave",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove tea stains from table linen",
+    "frequency": "As needed",
     "steps": [
-      "Heat a microwave-safe bowl of water for a short period to soften splashes",
-      "let it cool before opening",
-      "wipe interior with a damp cloth",
-      "dry"
+      "Blot fresh tea and flush stain from reverse with cool water; avoid rubbing.",
+      "Pre-treat with suitable laundry detergent for 10–15 minutes.",
+      "Wash at the hottest temperature permitted by the care label."
     ],
-    "caution": "Avoid burns from steam and hot water."
+    "caution": "Test coloured linen before using any stain remover."
   },
   {
     "id": 5,
-    "category": "Kitchen",
-    "title": "Freshen fridge shelves",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove red wine from washable fabric",
+    "frequency": "As needed",
     "steps": [
-      "Move chilled food to a cool box if needed",
-      "remove shelves according to manual",
-      "wash with mild soapy water and dry",
-      "return food promptly"
+      "Blot up liquid promptly using clean white cloths; keep the area from spreading.",
+      "Rinse from the back with cool water and apply suitable liquid laundry detergent.",
+      "Launder following care label and check before heat drying."
     ],
-    "caution": "Keep chilled foods cold; avoid prolonged time at room temperature."
+    "caution": "Do not use bleach on coloured or delicate fabrics unless explicitly permitted."
   },
   {
     "id": 6,
-    "category": "Kitchen",
-    "title": "Clean sink and taps",
-    "frequency": "Daily",
+    "category": "Clothing Stains",
+    "title": "Remove chocolate stains",
+    "frequency": "As needed",
     "steps": [
-      "Rinse sink",
-      "wash with mild washing-up liquid",
-      "rinse thoroughly",
-      "dry taps to reduce water marks"
+      "Scrape off excess chocolate gently with a spoon; let any melted chocolate firm up first.",
+      "Rinse from reverse with cool water and work in enzyme laundry detergent if fabric permits.",
+      "Wash according to label and check before drying."
     ],
-    "caution": "Use non-abrasive cleaner on plated fittings."
+    "caution": "Hot water can set protein-containing food stains; check care label."
   },
   {
     "id": 7,
-    "category": "Kitchen",
-    "title": "Wash reusable cloths",
-    "frequency": "After use",
+    "category": "Clothing Stains",
+    "title": "Remove tomato sauce stains",
+    "frequency": "As needed",
     "steps": [
-      "Rinse away food residue",
-      "wash cloths on a suitable hot laundry cycle according to label",
-      "dry fully before reuse"
+      "Lift off sauce with a spoon without rubbing it deeper; rinse the reverse with cool water.",
+      "Apply liquid laundry detergent and let sit 10 minutes.",
+      "Wash normally and repeat treatment before drying if colour remains."
     ],
-    "caution": "Use separate cloths for toilets and food areas."
+    "caution": "Test any oxygen-based stain remover on an inconspicuous spot."
   },
   {
     "id": 8,
-    "category": "Kitchen",
-    "title": "Clean kettle exterior",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove grease from clothing",
+    "frequency": "As needed",
     "steps": [
-      "Unplug and cool kettle",
-      "wipe exterior with damp cloth",
-      "dry thoroughly",
-      "descale interior following manufacturer's directions"
+      "Blot fresh oil with paper towel and avoid rubbing; check care label.",
+      "Work a drop of washing-up liquid into the mark gently, then rinse thoroughly.",
+      "Launder as directed and air-dry to check result."
     ],
-    "caution": "Never immerse electrical kettle in water."
+    "caution": "Washing-up liquid can cause excess foam in washing machines: rinse it out before machine washing."
   },
   {
     "id": 9,
-    "category": "Kitchen",
-    "title": "Clean bin",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove makeup foundation from collars",
+    "frequency": "As needed",
     "steps": [
-      "Empty and remove liner",
-      "wash bin with warm soapy water",
-      "rinse and dry completely",
-      "fit fresh liner"
+      "Lift excess makeup with a dry tissue without smearing; check garment care label.",
+      "Dab a little liquid laundry detergent into the mark with fingers.",
+      "Wash according to label and check before drying."
     ],
-    "caution": "Wash hands after handling waste."
+    "caution": "Test first on silk, wool and dark dyes; specialist cleaning may be safer."
   },
   {
     "id": 10,
-    "category": "Kitchen",
-    "title": "Clean extractor filter",
-    "frequency": "Monthly",
+    "category": "Clothing Stains",
+    "title": "Remove lipstick from washable fabric",
+    "frequency": "As needed",
     "steps": [
-      "Check filter type and manual",
-      "remove washable metal filter",
-      "soak in warm soapy water",
-      "rinse and dry fully before refitting"
+      "Scrape excess lipstick gently with a dull edge; do not spread.",
+      "Pre-treat with liquid detergent and gently blot with a clean cloth.",
+      "Rinse and wash following garment instructions."
     ],
-    "caution": "Do not wash disposable charcoal filters unless manufacturer permits."
+    "caution": "Lipstick dyes may remain; avoid harsh solvents on delicate fabrics."
   },
   {
     "id": 11,
-    "category": "Bathroom",
-    "title": "Clean bathroom sink",
-    "frequency": "Daily",
+    "category": "Clothing Stains",
+    "title": "Remove grass stains",
+    "frequency": "As needed",
     "steps": [
-      "Rinse basin",
-      "wipe with suitable bathroom cleaner",
-      "clean around taps",
-      "rinse and dry"
+      "Brush off loose dirt and rinse garment with cool water; check label.",
+      "Rub in enzyme laundry detergent if the fabric allows and leave for 15 minutes.",
+      "Wash following care label and inspect before tumble drying."
     ],
-    "caution": "Use cleaners compatible with natural stone and coatings."
+    "caution": "Do not use enzyme products on wool or silk unless the label permits."
   },
   {
     "id": 12,
-    "category": "Bathroom",
-    "title": "Clean shower screen",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove mud from trousers",
+    "frequency": "As needed",
     "steps": [
-      "Rinse screen after showering",
-      "use a squeegee",
-      "clean with screen-safe product",
-      "buff dry"
+      "Let wet mud dry completely to avoid spreading; brush off loose dried mud outdoors.",
+      "Rinse from the back and pre-treat remaining marks with laundry detergent.",
+      "Wash according to garment label."
     ],
-    "caution": "Avoid acidic cleaners on natural stone."
+    "caution": "Avoid aggressive brushing on delicate fabrics."
   },
   {
     "id": 13,
-    "category": "Bathroom",
-    "title": "Clean toilet bowl",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove blood from washable fabric",
+    "frequency": "As needed",
     "steps": [
-      "Apply toilet cleaner as labelled",
-      "allow recommended contact time",
-      "scrub bowl with toilet brush",
-      "flush"
+      "Rinse the fresh stain promptly from the back using cold water; blot rather than rub.",
+      "Apply a small amount of suitable liquid detergent and leave briefly.",
+      "Wash on a suitable cool cycle and check before drying."
     ],
-    "caution": "Never mix bleach with toilet cleaner or acids."
+    "caution": "Use gloves when cleaning blood that is not your own. Never use hot water initially."
   },
   {
     "id": 14,
-    "category": "Bathroom",
-    "title": "Wipe toilet exterior",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove sweat marks from shirts",
+    "frequency": "As needed",
     "steps": [
-      "Use separate bathroom cloth and suitable disinfectant",
-      "wipe flush handle lid seat and base",
-      "observe product contact time"
+      "Check the care label and test treatment on an inside seam; dampen affected area.",
+      "Pre-treat with suitable liquid laundry detergent and leave 15 minutes.",
+      "Wash following care label and air-dry."
     ],
-    "caution": "Keep cloth separate from kitchen cleaning."
+    "caution": "Some deodorant discoloration is permanent; avoid chlorine bleach on protein stains."
   },
   {
     "id": 15,
-    "category": "Bathroom",
-    "title": "Remove shower hair",
-    "frequency": "Weekly",
+    "category": "Clothing Stains",
+    "title": "Remove berry juice stains",
+    "frequency": "As needed",
     "steps": [
-      "Wear gloves",
-      "lift accessible drain cover",
-      "remove trapped hair with a tool",
-      "rinse cover and replace"
+      "Blot and rinse the stain from the reverse with cool running water; avoid scrubbing.",
+      "Apply laundry detergent to the damp area and let sit 10 minutes.",
+      "Wash as directed; inspect before drying."
     ],
-    "caution": "Do not combine chemical drain cleaners."
+    "caution": "Colourfastness matters on bright garments; test first."
   },
   {
     "id": 16,
-    "category": "Bathroom",
-    "title": "Clean bath",
-    "frequency": "Weekly",
+    "category": "Paint & DIY Spills",
+    "title": "Clean fresh water-based paint from tile",
+    "frequency": "As needed",
     "steps": [
-      "Rinse bath",
-      "apply surface-safe cleaner",
-      "wipe gently",
-      "rinse and dry"
+      "Keep children and pets away from spill; blot paint with paper towel while still wet.",
+      "Wipe tile with warm water and a little washing-up liquid using a soft cloth.",
+      "Rinse with clean water and dry the floor to prevent slipping."
     ],
-    "caution": "Check acrylic baths for product compatibility."
+    "caution": "Do not use abrasive tools on glazed or delicate tile; test grout first."
   },
   {
     "id": 17,
-    "category": "Bathroom",
-    "title": "Wash bath mats",
-    "frequency": "Weekly",
+    "category": "Paint & DIY Spills",
+    "title": "Remove wet emulsion paint from clothing",
+    "frequency": "As needed",
     "steps": [
-      "Check care label",
-      "machine wash at recommended setting",
-      "dry thoroughly before replacing"
+      "Scrape off excess wet paint carefully without pushing into fibres; rinse from reverse promptly.",
+      "Work a little liquid laundry detergent into the stain with cool water.",
+      "Rinse and wash according to label before paint dries."
     ],
-    "caution": "Avoid damp mats on slippery floors."
+    "caution": "Dried paint may be permanent. Check paint label; do not use solvents indiscriminately."
   },
   {
     "id": 18,
-    "category": "Bathroom",
-    "title": "Clean bathroom mirror",
-    "frequency": "Weekly",
+    "category": "Paint & DIY Spills",
+    "title": "Lift dried water-based paint from glass",
+    "frequency": "As needed",
     "steps": [
-      "Spray glass cleaner onto cloth rather than directly onto edges",
-      "wipe mirror",
-      "buff dry"
+      "Check that glass has no protective coating or tint; soften spot with warm soapy water.",
+      "Gently work at paint using a plastic scraper held flat against the glass.",
+      "Wipe with damp cloth and dry."
     ],
-    "caution": "Protect mirror backing from excess moisture."
+    "caution": "Avoid metal blades on coated glass; scratches and coating damage are possible."
   },
   {
     "id": 19,
-    "category": "Bathroom",
-    "title": "Reduce bathroom mould",
-    "frequency": "Weekly",
+    "category": "Paint & DIY Spills",
+    "title": "Clean fresh oil-based paint from brushes",
+    "frequency": "As needed",
     "steps": [
-      "Run extractor or open window during and after bathing",
-      "wipe condensation",
-      "dry damp surfaces",
-      "repair leaks promptly"
+      "Read the paint tin for its recommended brush cleaner; protect workspace and wear suitable gloves.",
+      "Wipe excess paint into a disposable rag then use the specified cleaner in a ventilated area.",
+      "Collect used solvent and paint residue for disposal per local council guidance."
     ],
-    "caution": "For extensive mould or health concerns seek professional advice."
+    "caution": "Solvents can be flammable and harmful; never pour them down drains or mix chemicals."
   },
   {
     "id": 20,
-    "category": "Bathroom",
-    "title": "Clean grout gently",
-    "frequency": "Monthly",
+    "category": "Paint & DIY Spills",
+    "title": "Remove paint splashes from laminate floor",
+    "frequency": "As needed",
     "steps": [
-      "Brush loose dirt",
-      "apply grout-safe cleaner following label",
-      "scrub gently with soft brush",
-      "rinse and dry"
+      "Identify paint type and test any method on a hidden area; lift wet paint with a damp cloth.",
+      "For dried water-based paint, soften briefly with a slightly damp cloth and use a plastic scraper gently.",
+      "Dry immediately and check the floor finish."
     ],
-    "caution": "Do not mix bleach and vinegar or other cleaners."
+    "caution": "Do not soak laminate or use strong solvents that may damage the coating."
   },
   {
     "id": 21,
-    "category": "Laundry",
-    "title": "Sort washing",
-    "frequency": "Every load",
+    "category": "Paint & DIY Spills",
+    "title": "Clean spilled wallpaper paste",
+    "frequency": "As needed",
     "steps": [
-      "Separate whites colours and delicate fabrics",
-      "check labels and pockets",
-      "turn garments as directed"
+      "Scoop up thick paste promptly with a plastic card; protect nearby electrical outlets.",
+      "Wipe washable surface with a damp sponge, changing water frequently.",
+      "Dry and check for sticky residue after surface is dry."
     ],
-    "caution": "Keep stain products away from children."
+    "caution": "Do not saturate wallpaper, wood or electrical fittings."
   },
   {
     "id": 22,
-    "category": "Laundry",
-    "title": "Treat fresh stains",
+    "category": "Paint & DIY Spills",
+    "title": "Remove dried PVA glue from glass",
     "frequency": "As needed",
     "steps": [
-      "Blot spill without rubbing",
-      "check care label",
-      "test stain treatment on hidden area",
-      "launder promptly"
+      "Check glass is plain uncoated glass and not a display screen; dampen glue with warm water.",
+      "Let it soften, then lift carefully with a plastic scraper.",
+      "Wipe with clean damp cloth and dry."
     ],
-    "caution": "Never use hot water blindly on protein stains."
+    "caution": "Avoid sharp metal blades and abrasive pads on coated glass."
   },
   {
     "id": 23,
-    "category": "Laundry",
-    "title": "Clean washing machine seal",
-    "frequency": "Weekly",
+    "category": "Paint & DIY Spills",
+    "title": "Clean plaster dust after decorating",
+    "frequency": "As needed",
     "steps": [
-      "Wipe accessible rubber seal folds with damp cloth",
-      "remove trapped debris",
-      "dry seal",
-      "leave door ajar if safe"
+      "Ventilate the room and use a suitable vacuum with a fine-dust/HEPA filter if available.",
+      "Vacuum high surfaces and edges first, then wipe remaining dust with a slightly damp microfibre cloth.",
+      "Change cloths and rinse hard floors as needed."
     ],
-    "caution": "Keep children and pets away from open machine."
+    "caution": "Avoid dry sweeping that sends fine dust airborne; wear appropriate dust protection."
   },
   {
     "id": 24,
-    "category": "Laundry",
-    "title": "Clean detergent drawer",
-    "frequency": "Monthly",
+    "category": "Paint & DIY Spills",
+    "title": "Remove silicone sealant smears from tiles",
+    "frequency": "As needed",
     "steps": [
-      "Remove drawer if manual allows",
-      "rinse residue with warm water",
-      "brush corners",
-      "dry and replace"
+      "Allow sealant to cure if the product instructions recommend it; protect surrounding grout.",
+      "Lift the bulk gently using a plastic scraper and follow sealant maker's approved remover instructions.",
+      "Wipe residue and rinse as directed by the remover label."
     ],
-    "caution": "Unplug if manual requires maintenance isolation."
+    "caution": "Test removers on a hidden spot; do not use on natural stone without checking compatibility."
   },
   {
     "id": 25,
-    "category": "Laundry",
-    "title": "Clean lint filter",
-    "frequency": "Every dryer load",
+    "category": "Kitchen Mishaps",
+    "title": "Remove burnt food from a saucepan",
+    "frequency": "As needed",
     "steps": [
-      "Switch dryer off",
-      "remove lint from filter",
-      "refit securely",
-      "inspect venting as recommended"
+      "Let pan cool fully and remove loose burnt food with a wooden spoon.",
+      "Cover burnt area with warm water and washing-up liquid and soak for 30 minutes.",
+      "Use a non-scratch sponge; repeat soaking instead of aggressive scraping."
     ],
-    "caution": "Lint build-up is a fire hazard."
+    "caution": "Do not pour cold water into a very hot pan or use abrasive pads on non-stick coatings."
   },
   {
     "id": 26,
-    "category": "Laundry",
-    "title": "Dry clothes indoors safely",
+    "category": "Kitchen Mishaps",
+    "title": "Clean sticky syrup spills",
     "frequency": "As needed",
     "steps": [
-      "Use a well-ventilated room",
-      "space garments on airer",
-      "keep away from heaters and open flames",
-      "monitor humidity"
+      "Lift excess syrup with a spoon or absorbent cloth; prevent slip hazards.",
+      "Wipe washable surface with warm water and a small amount of washing-up liquid.",
+      "Rinse with a clean damp cloth and dry completely."
     ],
-    "caution": "Avoid draping clothes over electric heaters."
+    "caution": "Do not flood wooden floors or electrical surfaces."
   },
   {
     "id": 27,
-    "category": "Laundry",
-    "title": "Wash bedding",
-    "frequency": "Weekly",
+    "category": "Kitchen Mishaps",
+    "title": "Remove cooking oil from tiled floor",
+    "frequency": "As needed",
     "steps": [
-      "Read care labels",
-      "wash sheets and pillowcases on suitable programme",
-      "dry fully before storing"
+      "Keep people off slippery area and blot up oil with paper towels.",
+      "Wash the tile with warm water and a little degreasing washing-up liquid.",
+      "Rinse thoroughly and dry, checking for remaining slick patches."
     ],
-    "caution": "Do not overload washing machine."
+    "caution": "Avoid mixing cleaners; be careful on porous stone or unsealed grout."
   },
   {
     "id": 28,
-    "category": "Laundry",
-    "title": "Refresh towels",
-    "frequency": "Weekly",
+    "category": "Kitchen Mishaps",
+    "title": "Remove curry stains from plastic food tubs",
+    "frequency": "As needed",
     "steps": [
-      "Wash towels as label directs",
-      "use measured detergent",
-      "dry fully and store aired"
+      "Wash container with warm soapy water and check manufacturer care instructions.",
+      "Leave container in daylight briefly if suitable, then wash again with mild detergent.",
+      "Rinse and dry; repeat if needed."
     ],
-    "caution": "Avoid excessive fabric conditioner if absorbency falls."
+    "caution": "Discolouration can be permanent. Do not use harsh solvents on food-contact plastic."
   },
   {
     "id": 29,
-    "category": "Laundry",
-    "title": "Clean iron soleplate",
+    "category": "Kitchen Mishaps",
+    "title": "Clean spilled milk from upholstery",
     "frequency": "As needed",
     "steps": [
-      "Unplug and cool iron",
-      "wipe soleplate with soft damp cloth",
-      "follow manufacturer's descaling instructions"
+      "Blot milk immediately with a clean towel without rubbing; check upholstery care code.",
+      "If water cleaning is allowed, dab gently with a little mild detergent solution.",
+      "Blot with clean damp cloth and dry quickly with airflow."
     ],
-    "caution": "Never scrub hot soleplate."
+    "caution": "Do not soak foam cushions; seek professional help for delicate or dry-clean-only upholstery."
   },
   {
     "id": 30,
-    "category": "Laundry",
-    "title": "Organise cleaning supplies",
-    "frequency": "Monthly",
+    "category": "Kitchen Mishaps",
+    "title": "Remove melted chocolate from carpet",
+    "frequency": "As needed",
     "steps": [
-      "Check expiry and labels",
-      "store products upright in original containers",
-      "keep out of reach of children and pets"
+      "Let chocolate harden, then lift solid pieces gently with a blunt spoon.",
+      "Blot remaining stain with upholstery/carpet-safe detergent following label.",
+      "Remove detergent residue with a lightly damp cloth and dry."
     ],
-    "caution": "Never decant chemicals into drink bottles."
+    "caution": "Test colourfastness first; avoid excessive moisture or heat."
   },
   {
     "id": 31,
-    "category": "Living Areas",
-    "title": "Dust shelves",
-    "frequency": "Weekly",
+    "category": "Kitchen Mishaps",
+    "title": "Clean spilled flour from kitchen floor",
+    "frequency": "As needed",
     "steps": [
-      "Move small objects",
-      "dust from high to low using microfibre cloth",
-      "return objects after surfaces are clean"
+      "Keep area dry initially; collect loose flour using dustpan or suitable vacuum.",
+      "Once loose powder is removed, wipe floor with a lightly damp cloth.",
+      "Rinse cloth and dry floor fully."
     ],
-    "caution": "Avoid standing on unstable furniture."
+    "caution": "Adding water to large amounts of flour makes a sticky paste."
   },
   {
     "id": 32,
-    "category": "Living Areas",
-    "title": "Vacuum carpets",
-    "frequency": "Weekly",
+    "category": "Sticky Marks",
+    "title": "Remove sticker residue from glass jars",
+    "frequency": "As needed",
     "steps": [
-      "Pick up small objects",
-      "vacuum slowly in overlapping passes",
-      "empty or replace vacuum bag as directed"
+      "Peel paper label off and soak jar in warm soapy water if safe.",
+      "Rub softened adhesive gently with a cloth and a little cooking oil if needed.",
+      "Wash thoroughly with washing-up liquid and rinse."
     ],
-    "caution": "Use appropriate vacuum setting for delicate rugs."
+    "caution": "Keep oils off labels you wish to retain; do not use on porous surfaces."
   },
   {
     "id": 33,
-    "category": "Living Areas",
-    "title": "Clean sofa fabric",
-    "frequency": "Monthly",
+    "category": "Sticky Marks",
+    "title": "Remove tape residue from painted doors",
+    "frequency": "As needed",
     "steps": [
-      "Check upholstery cleaning code",
-      "vacuum crevices",
-      "spot-test approved fabric cleaner",
-      "blot stains gently"
+      "Test in an inconspicuous spot and gently warm residue with your hand or warm damp cloth.",
+      "Roll adhesive off with fingertips or a soft cloth without scraping paint.",
+      "Wipe gently with mild soapy water and dry."
     ],
-    "caution": "Do not soak upholstery."
+    "caution": "Strong solvents and heat guns can remove paint; avoid them."
   },
   {
     "id": 34,
-    "category": "Living Areas",
-    "title": "Wipe light switches",
-    "frequency": "Weekly",
+    "category": "Sticky Marks",
+    "title": "Remove chewing gum from washable fabric",
+    "frequency": "As needed",
     "steps": [
-      "Apply mild cleaner to cloth not switch",
-      "wipe gently",
-      "dry immediately"
+      "Place garment in a bag and chill in freezer until gum hardens.",
+      "Gently lift hardened gum with a blunt spoon without pulling threads.",
+      "Pre-treat residue with suitable laundry detergent and wash as labelled."
     ],
-    "caution": "Do not allow liquid into electrical fittings."
+    "caution": "Check fabric can tolerate freezing and do not force delicate fibres."
   },
   {
     "id": 35,
-    "category": "Living Areas",
-    "title": "Clean TV screen",
-    "frequency": "Weekly",
+    "category": "Sticky Marks",
+    "title": "Remove candle wax from hard surfaces",
+    "frequency": "As needed",
     "steps": [
-      "Turn off and unplug TV",
-      "use dry soft microfibre cloth",
-      "follow screen manufacturer's guidance for marks"
+      "Let wax cool and harden completely; do not handle hot wax.",
+      "Lift gently with plastic scraper and wipe remaining film with warm soapy cloth if safe.",
+      "Dry and inspect finish."
     ],
-    "caution": "Do not spray cleaner directly on screen."
+    "caution": "Avoid heat and scraping on varnished wood, painted surfaces and porous stone."
   },
   {
     "id": 36,
-    "category": "Living Areas",
-    "title": "Clean window sills",
-    "frequency": "Weekly",
+    "category": "Sticky Marks",
+    "title": "Remove candle wax from washable tablecloth",
+    "frequency": "As needed",
     "steps": [
-      "Dust loose debris",
-      "wipe with mild soapy cloth",
-      "dry corners and tracks"
+      "Let wax harden and gently crumble off excess without tearing fabric.",
+      "Follow fabric-care guidance for remaining wax; use absorbent paper and low controlled warmth only if fabric permits.",
+      "Pre-treat oily residue with detergent and wash as labelled."
     ],
-    "caution": "Inspect for condensation and leaks."
+    "caution": "Heat can damage synthetics and set dye; do not use iron on unknown fabrics."
   },
   {
     "id": 37,
-    "category": "Living Areas",
-    "title": "Vacuum skirting boards",
-    "frequency": "Monthly",
+    "category": "Bathroom Problems",
+    "title": "Remove limescale from a chrome tap",
+    "frequency": "As needed",
     "steps": [
-      "Use soft brush attachment to remove dust",
-      "wipe marks with damp cloth",
-      "dry"
+      "Check tap manufacturer guidance and avoid acidic cleaners if finish is sensitive.",
+      "Apply an approved limescale remover to a cloth rather than soaking fittings; follow label contact time.",
+      "Rinse promptly and dry with soft cloth."
     ],
-    "caution": "Test cleaner on painted finish first."
+    "caution": "Acid can damage plated finishes and stone; never mix with bleach."
   },
   {
     "id": 38,
-    "category": "Living Areas",
-    "title": "Clean door handles",
-    "frequency": "Weekly",
+    "category": "Bathroom Problems",
+    "title": "Clean grout discoloration",
+    "frequency": "As needed",
     "steps": [
-      "Wipe handles with surface-compatible cleaner",
-      "disinfect high-touch points if needed",
-      "dry"
+      "Brush away loose debris and check whether grout is sealed or damaged.",
+      "Use a grout-safe cleaner according to its label and scrub gently with soft brush.",
+      "Rinse and dry well; improve ventilation."
     ],
-    "caution": "Observe disinfectant label contact time."
+    "caution": "Dark staining may be mould or permanent staining; seek professional help for widespread mould."
   },
   {
     "id": 39,
-    "category": "Living Areas",
-    "title": "Freshen curtains",
-    "frequency": "Seasonal",
+    "category": "Bathroom Problems",
+    "title": "Remove hard-water spots from shower screen",
+    "frequency": "As needed",
     "steps": [
-      "Check care label",
-      "vacuum with upholstery attachment",
-      "launder or dry-clean only as instructed"
+      "Check coating instructions and start with warm soapy water and soft cloth.",
+      "If permitted, use a glass-safe limescale cleaner for the label's contact time.",
+      "Rinse completely and dry with a squeegee."
     ],
-    "caution": "Heavy curtains may require specialist cleaning."
+    "caution": "Never combine acid-based descalers with bleach or chlorine cleaners."
   },
   {
     "id": 40,
-    "category": "Living Areas",
-    "title": "Clean remote controls",
-    "frequency": "Weekly",
+    "category": "Furniture & Surfaces",
+    "title": "Remove water rings from varnished wood",
+    "frequency": "As needed",
     "steps": [
-      "Remove batteries if manual recommends",
-      "wipe with barely damp cloth",
-      "use cotton bud around buttons",
-      "dry completely"
+      "Identify whether finish is varnish, wax or oil and test an inconspicuous area.",
+      "Gently buff with a dry soft cloth; use only a furniture-care product approved for the finish.",
+      "Stop if finish becomes cloudy or soft and consult a furniture specialist."
     ],
-    "caution": "Do not soak electronics."
+    "caution": "Do not apply heat, abrasives or household acids to valuable furniture."
   },
   {
     "id": 41,
-    "category": "Bedrooms",
-    "title": "Change bed linen",
-    "frequency": "Weekly",
+    "category": "Furniture & Surfaces",
+    "title": "Remove crayon marks from painted walls",
+    "frequency": "As needed",
     "steps": [
-      "Strip bedding",
-      "wash according to label",
-      "dry fully",
-      "make bed with clean linen"
+      "Test paint washability on a hidden area and gently dust off loose material.",
+      "Wipe lightly with a soft cloth and mild soapy water without scrubbing.",
+      "Dab dry and repeat cautiously if paint is stable."
     ],
-    "caution": "Keep spare bedding in dry storage."
+    "caution": "Matt paint may mark or lift; avoid abrasive sponges."
   },
   {
     "id": 42,
-    "category": "Bedrooms",
-    "title": "Vacuum mattress",
-    "frequency": "Monthly",
+    "category": "Furniture & Surfaces",
+    "title": "Remove shoe scuffs from vinyl flooring",
+    "frequency": "As needed",
     "steps": [
-      "Remove bedding",
-      "vacuum mattress surface with upholstery tool",
-      "rotate mattress if manufacturer permits"
+      "Sweep grit away and test on hidden patch.",
+      "Rub mark gently with soft damp cloth and diluted floor-safe cleaner.",
+      "Rinse lightly and dry."
     ],
-    "caution": "Do not wet memory foam unless approved."
+    "caution": "Avoid solvents and abrasive pads that can dull vinyl."
   },
   {
     "id": 43,
-    "category": "Bedrooms",
-    "title": "Dust bedside tables",
-    "frequency": "Weekly",
+    "category": "Furniture & Surfaces",
+    "title": "Remove biro marks from faux leather",
+    "frequency": "As needed",
     "steps": [
-      "Remove items",
-      "dust with microfibre",
-      "wipe spills with finish-safe cleaner",
-      "dry"
+      "Check maker's care instructions and test mild soapy water on hidden area.",
+      "Dab gently with soft cloth; stop if finish transfers or changes.",
+      "Dry promptly and consult specialist cleaner for persistent ink."
     ],
-    "caution": "Keep liquids away from chargers."
+    "caution": "Alcohol and solvents can strip faux-leather coating."
   },
   {
     "id": 44,
-    "category": "Bedrooms",
-    "title": "Organise wardrobe",
-    "frequency": "Monthly",
+    "category": "Furniture & Surfaces",
+    "title": "Remove pet paw prints from upholstery",
+    "frequency": "As needed",
     "steps": [
-      "Remove items one shelf at a time",
-      "dust and wipe shelf",
-      "dry",
-      "replace sorted clothes"
+      "Let wet muddy prints dry if needed and vacuum loose grit using upholstery attachment.",
+      "If care code permits, dab with mild upholstery-safe cleaner using a white cloth.",
+      "Blot moisture and air-dry fully."
     ],
-    "caution": "Avoid overloading high shelves."
+    "caution": "Do not saturate cushions or use water on solvent-clean-only fabrics."
   },
   {
     "id": 45,
-    "category": "Bedrooms",
-    "title": "Clean under bed",
-    "frequency": "Monthly",
+    "category": "Outdoor & Miscellaneous",
+    "title": "Remove bird droppings from patio furniture",
+    "frequency": "As needed",
     "steps": [
-      "Move accessible storage",
-      "vacuum floor and corners",
-      "wipe storage boxes before returning"
+      "Wear gloves and dampen droppings to avoid making dust airborne.",
+      "Lift with disposable paper towels then clean with mild detergent suitable for furniture.",
+      "Rinse and dry; wash hands thoroughly."
     ],
-    "caution": "Do not move heavy furniture alone."
+    "caution": "Do not dry-brush droppings or mix disinfectants; check material care."
   },
   {
     "id": 46,
-    "category": "Whole Home",
-    "title": "Mop hard floors",
-    "frequency": "Weekly",
+    "category": "Outdoor & Miscellaneous",
+    "title": "Remove rust-coloured marks from paving",
+    "frequency": "As needed",
     "steps": [
-      "Vacuum or sweep first",
-      "dilute floor-safe cleaner according to label",
-      "mop with damp not soaking pad",
-      "allow to dry"
+      "Identify paving material and test a specialist product on hidden area.",
+      "Use only a rust remover explicitly approved for that stone or paving, following label.",
+      "Rinse as directed and protect nearby plants."
     ],
-    "caution": "Use very little water on laminate and timber."
+    "caution": "Acidic products can etch limestone, marble and concrete; consult a professional if unsure."
   },
   {
     "id": 47,
-    "category": "Whole Home",
-    "title": "Clean internal windows",
-    "frequency": "Monthly",
+    "category": "Outdoor & Miscellaneous",
+    "title": "Remove sticky tree sap from car paint",
+    "frequency": "As needed",
     "steps": [
-      "Dust frames and tracks",
-      "use suitable glass cleaner and lint-free cloth",
-      "wipe from top down",
-      "buff dry"
+      "Wash grit away first with automotive shampoo and water.",
+      "Use a dedicated automotive sap remover suitable for the finish following product instructions.",
+      "Rinse and dry with clean microfibre cloth."
     ],
-    "caution": "Avoid leaning out of windows."
+    "caution": "Do not scrape or use household solvents on automotive clear coat."
   },
   {
     "id": 48,
-    "category": "Whole Home",
-    "title": "Check smoke alarms",
-    "frequency": "Monthly",
+    "category": "Outdoor & Miscellaneous",
+    "title": "Remove insect marks from car windscreen",
+    "frequency": "As needed",
     "steps": [
-      "Press test button according to manufacturer's guidance",
-      "replace batteries or units as directed"
+      "Soak marks with water or automotive glass cleaner and let soften briefly.",
+      "Wipe with clean microfibre cloth using light pressure.",
+      "Rinse and inspect visibility before driving."
     ],
-    "caution": "Never disable an alarm to stop nuisance beeps."
+    "caution": "Avoid abrasive pads and keep cleaners away from sensitive coatings."
   },
   {
     "id": 49,
-    "category": "Whole Home",
-    "title": "Tidy entryway",
-    "frequency": "Weekly",
+    "category": "Outdoor & Miscellaneous",
+    "title": "Clean dried salt marks from shoes",
+    "frequency": "As needed",
     "steps": [
-      "Remove clutter from doorway",
-      "wipe shoe rack",
-      "sweep entrance",
-      "dry wet footwear separately"
+      "Check whether shoes are leather, suede or fabric and follow maker's care guidance.",
+      "For washable fabric, gently dab with a lightly damp cloth and mild shoe-safe cleaner.",
+      "Allow to air-dry away from direct heat."
     ],
-    "caution": "Keep escape routes clear."
+    "caution": "Do not wet suede heavily; use a specialist suede brush or cleaner."
   },
   {
     "id": 50,
-    "category": "Whole Home",
-    "title": "Clean reusable mop heads",
-    "frequency": "After use",
+    "category": "Outdoor & Miscellaneous",
+    "title": "Remove sticky drink spill from car cupholder",
+    "frequency": "As needed",
     "steps": [
-      "Rinse mop head",
-      "wash as label permits",
-      "dry fully before storage"
+      "Remove loose items and blot liquid before it reaches electrical controls.",
+      "Use a barely damp cloth with mild detergent on removable washable inserts.",
+      "Rinse inserts separately and dry completely before refitting."
     ],
-    "caution": "Never reuse toilet cleaning mop in food areas."
+    "caution": "Do not pour liquid into car trim or near electronics."
   }
 ]
